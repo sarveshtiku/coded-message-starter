@@ -33,7 +33,6 @@ This project was built as part of CodePath's **SITE Summer Internship Lab: The C
 - **Modular Functions**  
   Clean separation of logic for translation, word reversal, and shifting for better readability and reuse.
 
-- *(Optional: Coming soon)* Dark mode toggle, copy-to-clipboard button, or downloadable `.txt` file.
 
 ---
 
