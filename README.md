@@ -1,10 +1,10 @@
-# 🔐 Decoder & Encoder Challenge
+# Decoder & Encoder Challenge
 
 This project was built as part of CodePath's **SITE Summer Internship Lab: The Case of the Coded Message**. The goal was to build a JavaScript-based message decoder using string manipulation, Caesar ciphers, and DOM interaction — and to optionally extend it with additional features.
 
 ---
 
-## ✅ Required Features
+## Required Features
 
 - **translateNumbers()**  
   Replaces specific characters:
@@ -22,7 +22,7 @@ This project was built as part of CodePath's **SITE Summer Internship Lab: The C
 
 ---
 
-## 🚀 Stretch Features
+## Stretch Features
 
 - **Encoder Tool**  
   A Caesar cipher encoder that allows the user to:
@@ -37,6 +37,6 @@ This project was built as part of CodePath's **SITE Summer Internship Lab: The C
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Below are screenshots showing the Decoder and Encoder in action.<img width="542" alt="Screenshot 2025-06-09 at 11 24 43" src="https://github.com/user-attachments/assets/575fa7c5-c1ec-4ab6-9064-39caa876a894" />
