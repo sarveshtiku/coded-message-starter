@@ -1,20 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Decoding Challenge</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <title>Decoder & Encoder Challenge</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>The Decoder Challenge</h1>
+  <h1>The Decoder Challenge</h1>
 
-    <label for="encodedInput">Enter Encoded Message:</label>
-    <input type="text" id="encodedInput">
+  <label for="encodedInput">Enter Encoded Message:</label>
+  <input type="text" id="encodedInput">
+  <button id="decodeButton">Decode!</button>
 
-    <button id="decodeButton">Decode!</button>
+  <p>Decoded Message:</p>
+  <div id="decodedOutput"></div>
 
-    <p>Decoded Message:</p>
-    <div id="decodedOutput"></div>
+  <hr>
 
-    <script src="script.js"></script>  <!-- This is how we link the javascript file -->
+  <h1>The Encoder Challenge</h1>
+
+  <label for="plainInput">Enter Message to Encode:</label>
+  <input type="text" id="plainInput">
+
+  <label for="shiftInput">Enter Shift Amount:</label>
+  <input type="number" id="shiftInput" min="1" max="25" value="3">
+  <button id="encodeButton">Encode!</button>
+
+  <p>Encoded Message:</p>
+  <div id="encodedOutput"></div>
+
+  <!-- JavaScript goes at the bottom -->
+  <script src="script.js"></script>
 </body>
 </html>
