@@ -1,9 +1,8 @@
 # Decoder & Encoder Challenge
 
 This project was built as part of CodePath's **SITE Summer Internship Lab: The Case of the Coded Message**. The goal was to build a JavaScript-based message decoder using string manipulation, Caesar ciphers, and DOM interaction — and to optionally extend it with additional features.
- Link to github pages: https://sarveshtiku.github.io/coded-message-starter/
 ---
-
+Link to github pages: https://sarveshtiku.github.io/coded-message-starter/
 ## Required Features
 
 - **translateNumbers()**  
